@@ -1,0 +1,1 @@
+The production application is packaged as payload.tar.gz and extracted by bootstrap.js at runtime. This keeps the deployed v34 source snapshot exact while the product is still under active prototyping.
