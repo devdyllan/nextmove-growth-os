@@ -1,14 +1,1 @@
-{
-  "name": "nextmove-growth-os",
-  "version": "1.3.0",
-  "private": true,
-  "description": "NEXTMOVE Growth OS clean test build: unpublished public quiz, private test funnel, separated test/live analytics, editor, AI analyst, Meta/CAPI and checkout stitching",
-  "scripts": {
-    "start": "node --env-file-if-exists=.env server.js",
-    "seed": "node seed-demo.js",
-    "clear": "node clear-data.js"
-  },
-  "engines": {
-    "node": ">=22.5.0"
-  }
-}
+{"name":"nextmove-growth-os-deploy","version":"1.0.0","private":true,"scripts":{"start":"node bootstrap.js"},"engines":{"node":">=22.5.0"}}
